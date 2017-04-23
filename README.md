@@ -1,4 +1,6 @@
-<h1>INstallation</h1>
+<h1>Screenshoot</h1>
+
+<h1>Installation</h1>
 
 <ul>
 
@@ -6,6 +8,6 @@
 
 <li>Open the Assignment.html in web browser.</li>
 
-<h3>Note - Internet connection is required while running file and keep both the files in same directory.</h3>
+<h4>Note - Internet connection is required while running file and keep both the files in same directory.</h4>
 
 </ul>
