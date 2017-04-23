@@ -1,4 +1,7 @@
-<h1>Screenshoot</h1>
+<h1>Screenshoot</h1>\
+
+![capture](https://cloud.githubusercontent.com/assets/23516674/25313569/977b8512-284e-11e7-9630-d8aba5faac63.PNG)
+
 
 <h1>Installation</h1>
 
