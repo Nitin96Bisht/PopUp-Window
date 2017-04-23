@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>PopUP</title>
+</head>
+<script type="text/javascript" src="http://code.jquery.com/jquery-latest.js"></script>
+ <script>
+       
+        $(document).ready( function() {
+        $('#popup').delay(8000).fadeOut();
+       });
+ 
+ </script>
+
+<body>
+
+<div id="container">
+	<div class="wrapper">
+		<p><a class="button" href="#popup">Click Me</a></p>
+	</div>
+
+	<div id="popup" class="window">
+		<div class="form">
+			<a class="close" href="#">&times;</a>
+			<div id="content">
+			<p>ENTER YOUR EMAIL BELOW</p>
+			<span>10% OFF</span><p id="offer">with order of RS.750 or more</p>
+				<input class="input" type="text" placeholder="Enter Your Email Here"><br>
+				<input class="subscribe" type="text" placeholder="Subscribe">
+				<p id="offer">Powered By Widely</p>
+			</div>
+		</div>
+	</div>
+
+</div>
+
+</body>
+<link rel="stylesheet" type="text/css" href="Assignment.css">
+</html>
